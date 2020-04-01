@@ -26,20 +26,20 @@ You will find two data files in this repo, along with one file describing the fe
 
 ## Submissions
 Save your predictions in a csv file with the following pattern. 
-- housing_preds_<your team initials>.csv
+- housing_preds_yourteaminitials.csv
 - For example, if Brian and Erin were a team, their submission would look like housing_preds_bmeh.csv
 
 - There are different ways to turn arrays to csv's.  You can use any method you choose, but be sure your submission has no heading, no heading and one column. Your submission must match the number of records in the kc_house_data_test_features.csv. Don't worry about rounding.  A valid submission could look like below. 
 
-401412.6923102136
-501023.6923102136
-310304.62734089
-1030130.2812897698
+401412.6923102136<br>
+501023.6923102136<br>
+310304.62734089<br>
+1030130.2812897698<br>
 ...
 
-Please no header on your csv submission.
+- Please no header on your csv submission.
 
--You will be given **3 hours** to build your best model using the training data. There is a hard cuttoff at 3 hours. Any late submissions will not be considered. 
+- You will be given **3 hours** to build your best model using the training data. There is a hard cuttoff at 3 hours. Any late submissions will not be considered. 
 - Slack your csv file to the seattle-chicago-ds-012720 channel before time is up. Any submissions after the 3 hour deadline will be evaluated, but not included in the judging.
 
 ## Metrics
